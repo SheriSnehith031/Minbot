@@ -2,7 +2,6 @@ function showInfo(resource) {
     var infoContainer = document.getElementById('infoContainer');
     var infoText = '';
     var imagePath = '';
-
     switch (resource) {
        case 'coal':
             infoText = ;
